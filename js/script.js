@@ -1,6 +1,6 @@
 /* ============================== typing animation ============================ */
 var typed = new Typed(".typing", {
-    strings: [ "Flutter Application Devloper", , "Programmer","Entrepreneur"],
+    strings: [ "Programmer", "Programmer","Entrepreneur"],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true
